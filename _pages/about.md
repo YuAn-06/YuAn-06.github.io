@@ -45,7 +45,7 @@ Yan-Lin He, **Xing-Yuan Li**,Jia-Hui Ma, Shan Lu, Qun-Xiong Zhu
 - *2020.10 Lingyue Technology Scholarship (5%)* 
 - *2019.10 Li-Wen and YanG-YAN Scholarship (5%)* 
 - *2018.03 Renmin First Class Scholarship (1%)* 
-- *2020.04 MCM/ICM Contest | Meritorious Winner with [Hu Xiao](https://huxiao09.github.io/) and Luo Jilong* 
+- *2020.04 MCM/ICM Contest Meritorious Winner with [Hu Xiao](https://huxiao09.github.io/) and Luo Jilong* 
 
 # 📖 Educations
 - *2019.06 - now*, Master, Beijing University of chemical Technology, Beijing. 
