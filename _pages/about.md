@@ -17,14 +17,10 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-# :koala: Hi there
+# &#x26C4; Hi there
  I graduated from [Beijing University of Chemical Technology (BUCT)](https://www.buct.edu.cn/main.htm) with a bachelors'degree, currently pursuing the MA.Eng degrees with the [Engineering Research Center of Intelligent Process Systems Engineering, Ministry of Education](https://cist.buct.edu.cn/8485/list.htm), Beijing University of Chemical Technology, Beijing, China, advised by [Prof. He-Yanlin](https://scholar.google.com/citations?user=Oeav_TkAAAAJ&hl=zh-CN). My research interests include process data analytics, soft sensor modeling. I am trying to apply deep learning mechanism into industrial process modeling. 
  
  World is changing consistently, all i wish is to keep myself real and healthy.
-
-# 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
 # 📝 Publications 
 
@@ -38,7 +34,6 @@ Yan-Lin He, **Xing-Yuan Li**,Jia-Hui Ma, Shan Lu, Qun-Xiong Zhu
  
 </div>
 </div>
-
 
 # 🎖 Honors and Awards
 - *2021.06 Outstanding graduate of Beijing* 
