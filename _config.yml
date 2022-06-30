@@ -9,7 +9,7 @@
 title                    : "Li Xingyuan|李星原"
 description              : "A student from Beijing University of Chemical Technology. Focusing on process data analytics, soft sensor modeling and deep learning.. "
 repository               : "YuAn-06/acad-homepage.github.io"
-google_scholar_stats_use_cdn : true
+google_scholar_stats_use_cdn : False
 
 # google analytics
 google_analytics_id      :  # get google_analytics_id from https://analytics.google.com/analytics/
@@ -27,7 +27,7 @@ author:
   location         : "Beijing, China"
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=SCHOLAR_ID&user=pT8yvBoAAAAJ"
+  googlescholar    : 
   email            : "yuan_l1106@163.com"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : # e.g., "YuAn-06"
   google_plus      :
   keybase          :
   instagram        :
