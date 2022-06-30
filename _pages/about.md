@@ -32,7 +32,7 @@ redirect_from:
   
 Journal of Process Control (IF=3.666)
   
-Yan-Lin He, **Xing-Yuan Li**,Jia-Hui Ma, Shan Lu, Qun-Xiong Zhu
+Yan-Lin He, **Xing-Yuan Li**, Jia-Hui Ma, Shan Lu, Qun-Xiong Zhu
  
 </div>
 </div>
@@ -47,7 +47,7 @@ Yan-Lin He, **Xing-Yuan Li**,Jia-Hui Ma, Shan Lu, Qun-Xiong Zhu
 # 📖 Educations
 - *2019.06 - now*, Master, Beijing University of chemical Technology, Beijing. 
 - *2017.09 - 2021.06*, Bachelor, Beijing University of Chemical Technology, Beijing. 
-- *2014.09 - 2017.06*, Graduate, Naning No.2 High School, Guangxi
+- *2014.09 - 2017.06*, Graduate, Naning No.2 High School, Guangxi.
 
 
 # 💻 Internships
