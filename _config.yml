@@ -7,8 +7,7 @@
 
 # Site Settings
 title                    : "Li Xingyuan|李星原"
-description              : "I am currently pursuing the MA.Eng degrees with the College of Control Science and Engneering, Beijing University of Chemical Technology, Beijing, China. My research interests include process data analytics, soft sensor modeling and
-deep learning.. "
+description              : "A student from Beijing University of Chemical Technology. Focusing on process data analytics, soft sensor modeling and deep learning.. "
 repository               : "YuAn-06/acad-homepage.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -23,7 +22,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 # Site Author
 author:
   name             : "li Xingyuan"
-  avatar           : "images/android-chrome-512x512.png"
+  avatar           : "images/personal_photos1.jpg"
   bio              : "Beijing University of Chemical and Technology"
   location         : "Beijing, China"
   employer         :
