@@ -23,7 +23,7 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   name             : "li Xingyuan"
   avatar           : "images/personal_photos1.jpg"
-  bio              : "Beijing University of Chemical and Technology"
+  bio              : 
   location         : "Beijing, China"
   employer         :
   pubmed           : 
