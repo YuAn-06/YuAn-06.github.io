@@ -24,7 +24,7 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Process Control</div><img src='images/Data4.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Process Control</div><img src='images/Structure1.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [A novel virtual sample generation method based on a modifiedconditional Wasserstein GAN to address the small sample size problem in soft sensing](https://doi.org/10.1016/j.jprocont.2022.03.008
@@ -51,4 +51,4 @@ Yan-Lin He, **Xing-Yuan Li**, Jia-Hui Ma, Shan Lu, Qun-Xiong Zhu
 
 
 # 💻 Internships
-- *2021.03 - 2020.06*, [Tensorchip](http://www.tensorchip.com/), Beijing, China.
+- *2021.03 - 2021.06*, [Tensorchip](http://www.tensorchip.com/), Beijing, China.
