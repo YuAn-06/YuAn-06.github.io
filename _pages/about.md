@@ -19,6 +19,8 @@ redirect_from:
 
 # :koala: Hi there
  I graduated from [Beijing University of Chemical Technology (BUCT)](https://www.buct.edu.cn/main.htm) with a bachelors'degree, currently pursuing the MA.Eng degrees with the [Engineering Research Center of Intelligent Process Systems Engineering, Ministry of Education](https://cist.buct.edu.cn/8485/list.htm), Beijing University of Chemical Technology, Beijing, China, advised by [Prof. He-Yanlin](https://scholar.google.com/citations?user=Oeav_TkAAAAJ&hl=zh-CN). My research interests include process data analytics, soft sensor modeling. I am trying to apply deep learning mechanism into industrial process modeling. 
+ 
+ World is changing consistently, all i wish is to keep myself real and healthy.
 
 # 🔥 News
 - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
@@ -26,31 +28,30 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Process Control</div><img src='images/Data4.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Deep Residual Learning for Image Recognition](https://openaccess.thecvf.com/content_cvpr_2016/papers/He_Deep_Residual_Learning_CVPR_2016_paper.pdf)
+[A novel virtual sample generation method based on a modifiedconditional Wasserstein GAN to address the small sample size problem in soft sensing](https://doi.org/10.1016/j.jprocont.2022.03.008
+)
 
-**Kaiming He**, Xiangyu Zhang, Shaoqing Ren, Jian Sun
-
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+Yan-Lin He, **Xing-Yuan Li**,Jia-Hui Ma, Shan Lu, Qun-Xiong Zhu
+ 
 </div>
 </div>
 
-- [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020**
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2021.06 Outstanding graduate of Beijing 
+- *2020.10 Lingyue Technology Scholarship (5%)
+- *2019.10 Li-Wen and YanG-YAN Scholarship (5%)
+- *2018.03 Renmin First Class Scholarship (1%)
+- *2020.04 MCM/ICM Contest | Meritorious Winner with [Hu Xiao](https://huxiao09.github.io/) and Luo Jilong
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.06 - now*, Master, Beijing University of chemical Technology, Beijing. 
+- *2017.09 - 2021.06*, Bachelor, Beijing University of Chemical Technology, Beijing. 
+- *2014.09 - 2017.06*, Graduate, Naning No.2 High School, Guangxi
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2021.03 - 2020.06*, [Tensorchip](http://www.tensorchip.com/), China.
