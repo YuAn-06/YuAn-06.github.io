@@ -32,7 +32,7 @@ redirect_from:
   
 Journal of Process Control (IF=3.666)
   
-Yan-Lin He, **Xing-Yuan Li**, Jia-Hui Ma, Shan Lu, Qun-Xiong Zhu
+Yan-Lin He, **Xing-Yuan Li**, Jia-Hui Ma, Shan Lu, Qun-Xiong Zhu*
  
 </div>
 </div>
