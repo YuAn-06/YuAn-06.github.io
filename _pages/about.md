@@ -45,7 +45,7 @@ Yan-Lin He, **Xing-Yuan Li**, Jia-Hui Ma, Shan Lu, Qun-Xiong Zhu*
 - *2020.04 MCM/ICM Contest Meritorious Winner with [Hu Xiao](https://huxiao09.github.io/) and Luo Jilong* 
 
 # 📖 Educations
-- *2019.06 - now*, Master, Beijing University of chemical Technology, Beijing. 
+- *2021.09 - now*, Master, Beijing University of chemical Technology, Beijing. 
 - *2017.09 - 2021.06*, Bachelor, Beijing University of Chemical Technology, Beijing. 
 - *2014.09 - 2017.06*, Graduate, Naning No.2 High School, Guangxi.
 
