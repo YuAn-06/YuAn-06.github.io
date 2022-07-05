@@ -30,7 +30,7 @@ redirect_from:
 [A novel virtual sample generation method based on a modified conditional Wasserstein GAN to address the small sample size problem in soft sensing](https://doi.org/10.1016/j.jprocont.2022.03.008
 )
   
-Journal of Process Control (IF=3.666)
+Journal of Process Control (IF=3.951)
   
 Yan-Lin He, **Xing-Yuan Li**, Jia-Hui Ma, Shan Lu, Qun-Xiong Zhu*
  
