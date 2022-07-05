@@ -40,7 +40,7 @@ Yan-Lin He, **Xing-Yuan Li**, Jia-Hui Ma, Shan Lu, Qun-Xiong Zhu*
 # 🎖 Honors and Awards
 - *2021.06 Outstanding graduate of Beijing* 
 - *2020.10 Lingyue Technology Scholarship*  (Top 5%)
-- *2019.10 Li-Wen and YanG-YAN Scholarship* (Top 5%) 
+- *2019.10 Liwen and Yangyan Scholarship* (Top 5%) 
 - *2018.03 Renmin First Class Scholarship*  (Top 1%)
 - *2020.04 MCM/ICM Contest Meritorious Winner with [Hu Xiao](https://huxiao09.github.io/) and Luo Jilong* 
 
