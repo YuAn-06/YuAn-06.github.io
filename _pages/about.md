@@ -18,7 +18,7 @@ redirect_from:
 <span class='anchor' id='about-me'></span>
 
 # &#x26C4; Hi there
- I graduated from [Beijing University of Chemical Technology (BUCT)](https://www.buct.edu.cn/main.htm) with a bachelors'degree, currently pursuing the MA.Eng degrees with the [Engineering Research Center of Intelligent Process Systems Engineering, Ministry of Education](https://cist.buct.edu.cn/8485/list.htm), Beijing University of Chemical Technology, Beijing, China, advised by [Prof. He-Yanlin](https://scholar.google.com/citations?user=Oeav_TkAAAAJ&hl=zh-CN). My research interests include process data analytics, soft sensor modeling. I am trying to apply deep learning mechanism into industrial process modeling. 
+ I graduated from [Beijing University of Chemical Technology (BUCT)](https://www.buct.edu.cn/main.htm) with a bachelors'degree, currently pursuing the M.S. degrees with the [Engineering Research Center of Intelligent Process Systems Engineering, Ministry of Education](https://cist.buct.edu.cn/8485/list.htm), Beijing University of Chemical Technology, Beijing, China, advised by [Prof. He-Yanlin](https://scholar.google.com/citations?user=Oeav_TkAAAAJ&hl=zh-CN). My research interests include process data analytics, soft sensor modeling. I am trying to apply deep learning mechanism into industrial process modeling. 
  
  World is changing consistently, all i wish is to keep myself real and healthy.
 
