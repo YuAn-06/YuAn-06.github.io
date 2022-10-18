@@ -38,6 +38,7 @@ Yan-Lin He, **Xing-Yuan Li**, Jia-Hui Ma, Shan Lu, Qun-Xiong Zhu*
 </div>
 
 # 🎖 Honors and Awards
+- *2022.10 National Scholarship* （TOP 1%)
 - *2021.06 Outstanding graduate of Beijing* 
 - *2020.10 Lingyue Technology Scholarship*  (Top 5%)
 - *2019.10 Liwen and Yangyan Scholarship* (Top 5%) 
