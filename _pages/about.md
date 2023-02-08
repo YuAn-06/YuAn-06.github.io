@@ -24,19 +24,6 @@ redirect_from:
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Process Control</div><img src='images/Structure1.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A novel virtual sample generation method based on a modified conditional Wasserstein GAN to address the small sample size problem in soft sensing](https://doi.org/10.1016/j.jprocont.2022.03.008
-)
-  
-Journal of Process Control (IF=3.951)
-  
-Yan-Lin He, **Xing-Yuan Li**, Jia-Hui Ma, Shan Lu, Qun-Xiong Zhu*
- 
-</div>
-</div>
-
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Engineering applications of artificial intelligence</div><img src='images/structure-EAAI.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -46,6 +33,19 @@ Yan-Lin He, **Xing-Yuan Li**, Jia-Hui Ma, Shan Lu, Qun-Xiong Zhu*
 Engineering applications of artificial intelligence (IF=7.802)
   
 Yan-Lin He, **Xing-Yuan Li**, Jia-Hui Ma,  Qun-Xiong Zhu, Shan Lu*,
+ 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Journal of Process Control</div><img src='images/Structure1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A novel virtual sample generation method based on a modified conditional Wasserstein GAN to address the small sample size problem in soft sensing](https://doi.org/10.1016/j.jprocont.2022.03.008
+)
+  
+Journal of Process Control (IF=3.951)
+  
+Yan-Lin He, **Xing-Yuan Li**, Jia-Hui Ma, Shan Lu, Qun-Xiong Zhu*
  
 </div>
 </div>
