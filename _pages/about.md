@@ -37,6 +37,19 @@ Yan-Lin He, **Xing-Yuan Li**, Jia-Hui Ma, Shan Lu, Qun-Xiong Zhu*
 </div>
 </div>
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Engineering applications of artificial intelligence</div><img src='images/Structure1.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Attribute-relevant distributed variational autoencoder integrated with LSTM for dynamic industrial soft sensing](https://doi.org/10.1016/j.engappai.2022.105737
+)
+  
+Engineering applications of artificial intelligence (IF=7.802)
+  
+Yan-Lin He, **Xing-Yuan Li**, Jia-Hui Ma,  Qun-Xiong Zhu, Shan Lu*,
+ 
+</div>
+</div>
+
 # 🎖 Honors and Awards
 - *2022.10 National Scholarship* （TOP 1%)
 - *2021.06 Outstanding graduate of Beijing* 
